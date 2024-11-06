@@ -29,7 +29,6 @@
 "..\..\output\bsp_usart1.o"
 "..\..\output\stm32f10x_it.o"
 "..\..\output\delay.o"
-"..\..\output\driver_1602.o"
 "..\..\output\bsp_adc.o"
 "..\..\output\ds18b20.o"
 "..\..\output\oled.o"

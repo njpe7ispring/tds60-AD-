@@ -571,11 +571,6 @@
               <FilePath>..\..\User\delay.c</FilePath>
             </File>
             <File>
-              <FileName>driver_1602.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\..\User\driver_1602.c</FilePath>
-            </File>
-            <File>
               <FileName>bsp_adc.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\..\User\bsp_adc.c</FilePath>
